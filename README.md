@@ -12,7 +12,7 @@
 - `training_images/`: The annotated images used for model training.
 
 ## Prerequisites
-This repository requires the use of the U-Net plugin implemented in Fiji [1]. A complete guide on installation and usage is available [HERE](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/)
+This repository requires the use of the U-Net plugin implemented in Fiji [[1]](#1). A complete guide on installation and usage is available [HERE](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/)
 
 ## Citation
 Please cite the following work if you use this project's software, data, or methodologies in your own research:
@@ -43,4 +43,5 @@ author = {Stefano Passoni and Riccardo Mereu and Matteo Bucci},
 This project is licensed under the Creative Commons Attribution 4.0 license. See the [LICENSE](./LICENSE.txt) file for details.
 
 ## References
-[1] Falk, T., Mai, D., Bensch, R. et al. U-Net: deep learning for cell counting, detection, and morphometry. Nat Methods 16, 67–70 (2019). https://doi.org/10.1038/s41592-018-0261-2
+<a id="1">[1]</a> 
+Falk, T., Mai, D., Bensch, R. et al. U-Net: deep learning for cell counting, detection, and morphometry. Nat Methods 16, 67–70 (2019). https://doi.org/10.1038/s41592-018-0261-2
