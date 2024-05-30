@@ -12,7 +12,7 @@
 - `training_images/`: The annotated images used for model training.
 
 ## Prerequisites
-
+This repository requires the use of the U-Net plugin implemented in Fiji [1]. A complete guide on installation and usage is available [HERE](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/)
 
 ## Citation
 Please cite the following work if you use this project's software, data, or methodologies in your own research:
