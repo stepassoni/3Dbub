@@ -14,6 +14,14 @@
 ## Citation
 Please cite the following work if you use this project's software, data, or methodologies in your own research:
 
+Stefano Passoni, Riccardo Mereu, Matteo Bucci,
+Integrating machine learning and image processing for void fraction estimation in two-phase flow through corrugated channels,
+International Journal of Multiphase Flow,
+Volume 177,
+2024,
+104871,
+ISSN 0301-9322,
+https://doi.org/10.1016/j.ijmultiphaseflow.2024.104871.
 
 ```bibtex
 @article{PASSONI2024,
