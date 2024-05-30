@@ -10,3 +10,19 @@
 - `matlab_scripts/`: Collection of MATLAB scripts for volume reconstruction and void fraction estimation.
 - `model_weights/`: Directory containing the pre-trained weights for the U-net segmentation model ("3Dbub.caffemodel.h5", once extracted) and the model architecture ("3Dbub.modeldef.h5").
 - `training_images/`: The annotated images osed for model training.
+
+## Citation
+Please cite the following work if you use this project's software, data, or methodologies in your own research:
+```bibtex
+@article{PASSONI2024,
+title = {Integrating machine learning and image processing for void fraction estimation in two-phase flow through corrugated channels},
+journal = {International Journal of Multiphase Flow},
+volume = {177},
+pages = {104871},
+year = {2024},
+issn = {0301-9322},
+doi = {https://doi.org/10.1016/j.ijmultiphaseflow.2024.104871},
+url = {https://www.sciencedirect.com/science/article/pii/S0301932224001484},
+author = {Stefano Passoni and Riccardo Mereu and Matteo Bucci},
+}
+```
