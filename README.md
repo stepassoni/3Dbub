@@ -13,6 +13,8 @@
 
 ## Citation
 Please cite the following work if you use this project's software, data, or methodologies in your own research:
+
+
 ```bibtex
 @article{PASSONI2024,
 title = {Integrating machine learning and image processing for void fraction estimation in two-phase flow through corrugated channels},
@@ -26,3 +28,5 @@ url = {https://www.sciencedirect.com/science/article/pii/S0301932224001484},
 author = {Stefano Passoni and Riccardo Mereu and Matteo Bucci},
 }
 ```
+## License
+This project is licensed under the Creative Commons Attribution 4.0 license. See the [LICENSE](./LICENSE) file for details.
