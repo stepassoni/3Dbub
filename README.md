@@ -9,7 +9,10 @@
 ## Contents
 - `matlab_scripts/`: Collection of MATLAB scripts for volume reconstruction and void fraction estimation.
 - `model_weights/`: Directory containing the pre-trained weights for the U-net segmentation model ("3Dbub.caffemodel.h5", once extracted) and the model architecture ("3Dbub.modeldef.h5").
-- `training_images/`: The annotated images osed for model training.
+- `training_images/`: The annotated images used for model training.
+
+## Prerequisites
+
 
 ## Citation
 Please cite the following work if you use this project's software, data, or methodologies in your own research:
@@ -38,3 +41,6 @@ author = {Stefano Passoni and Riccardo Mereu and Matteo Bucci},
 ```
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 license. See the [LICENSE](./LICENSE.txt) file for details.
+
+## References
+[1] Falk, T., Mai, D., Bensch, R. et al. U-Net: deep learning for cell counting, detection, and morphometry. Nat Methods 16, 67–70 (2019). https://doi.org/10.1038/s41592-018-0261-2
