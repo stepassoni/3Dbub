@@ -7,6 +7,6 @@
 - Annotated images used for training.
 
 ## Contents
-- `model_weights/`: Directory containing the pre-trained weights for the U-net segmentation model ("3Dbub.caffemodel.h5", once extracted) and the model architecture ("3Dbub.modeldef.h5").
 - `matlab_scripts/`: Collection of MATLAB scripts for volume reconstruction and void fraction estimation.
+- `model_weights/`: Directory containing the pre-trained weights for the U-net segmentation model ("3Dbub.caffemodel.h5", once extracted) and the model architecture ("3Dbub.modeldef.h5").
 - `training_images/`: The annotated images osed for model training.
