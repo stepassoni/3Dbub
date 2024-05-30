@@ -9,7 +9,7 @@
 ## Contents
 - `matlab_scripts/`: Collection of MATLAB scripts for volume reconstruction and void fraction estimation.
 - `model_weights/`: Directory containing the pre-trained weights for the U-net segmentation model ("3Dbub.caffemodel.h5", once extracted) and the model architecture ("3Dbub.modeldef.h5").
-- `training_images/`: The annotated images used for model training.
+- `training_images/`: The images used for model training with annotations embedded (need to be opened in Fiji to see the annotations).
 
 ## Prerequisites
 This repository requires the use of the U-Net plugin [[1]](#1) implemented in Fiji [[2]](#2). A complete guide on installation and usage is available [HERE](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/)
