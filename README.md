@@ -44,7 +44,7 @@ This project is licensed under the Creative Commons Attribution 4.0 license. See
 
 ## References
 <a id="1">[1]</a> 
-Falk, T., Mai, D., Bensch, R. et al. U-Net: deep learning for cell counting, detection, and morphometry. Nat Methods 16, 67–70 (2019). https://doi.org/10.1038/s41592-018-0261-2
+Falk, T., Mai, D., Bensch, R. et al. U-Net: deep learning for cell counting, detection, and morphometry. Nat Methods 16, 67–70 (2019). [doi:](https://doi.org/10.1038/s41592-018-0261-2)
 
 <a id="2">[2]</a> 
-Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., … Cardona, A. (2012). Fiji: an open-source platform for biological-image analysis. Nature Methods, 9(7), 676–682. doi:10.1038/nmeth.2019
+Schindelin, J., Arganda-Carreras, I., Frise, E., Kaynig, V., Longair, M., Pietzsch, T., … Cardona, A. (2012). Fiji: an open-source platform for biological-image analysis. Nature Methods, 9(7), 676–682. [doi:](https://doi.org/10.1038/nmeth.2019)
