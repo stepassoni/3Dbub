@@ -1,0 +1,17 @@
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Stefano"
+    given-names: "Passoni  "
+    orcid: "https://orcid.org/0000-0002-7697-7868"
+  - family-names: "Riccardo"
+    given-names: "Mereu"
+    orcid: "https://orcid.org/0000-0003-0544-595X"
+  - family-names: "Matteo"
+    given-names: "Bucci"
+    orcid: "https://orcid.org/0000-0002-6423-1356"
+  doi: "10.1016/j.ijmultiphaseflow.2024.104871"
+  journal: "International Journal of Multiphase Flow"
+  title: "Integrating machine learning and image processing for void fraction estimation in two-phase flow through corrugated channels"
+  volume: 177
+  year: 2024
