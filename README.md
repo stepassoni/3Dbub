@@ -15,7 +15,7 @@
 This repository requires the use of the U-Net plugin [[1]](#1) implemented in Fiji [[2]](#2). A complete guide on installation and usage is available [HERE](https://lmb.informatik.uni-freiburg.de/resources/opensource/unet/).
 
 ## Usage
-To segment images using the pre-trained weights, you need to load the model file "3Dbub.modeldef.h5" and its weights "3Dbub.caffemodel.h5" in the U-Net plugin available in Fiji. Model has been finetuned to segment images of two-phase flow in chevron-type corrugated channels after background subtraction as detailed in the methodology described [HERE](https://doi.org/10.1016/j.ijmultiphaseflow.2024.104871). The input files are a set of frames from high-speed videos in the form of multi-page tiff files. The output from the segmentation plugin should be converted to 8-bit gray and then can be read into the Matlab scripts for further processing.
+To segment images using the pre-trained weights, you need to load the model file "3Dbub.modeldef.h5" and its weights "3Dbub.caffemodel.h5" in the U-Net plugin available in Fiji. Model has been finetuned to segment images of two-phase flow in chevron-type corrugated channels after background subtraction as detailed in the methodology described [HERE](https://doi.org/10.1016/j.ijmultiphaseflow.2024.104871). The input files are a set of frames from high-speed videos in the form of multi-page tiff files. The output from the segmentation job should be converted to 8-bit gray and then can be read into the Matlab scripts for further processing.
 
 ## Citation
 Please cite the following work if you use this project's software, data, or methodologies in your own research:
