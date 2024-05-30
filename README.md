@@ -29,4 +29,4 @@ author = {Stefano Passoni and Riccardo Mereu and Matteo Bucci},
 }
 ```
 ## License
-This project is licensed under the Creative Commons Attribution 4.0 license. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution 4.0 license. See the [LICENSE](./LICENSE.txt) file for details.
