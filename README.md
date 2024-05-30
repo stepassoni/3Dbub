@@ -1,5 +1,5 @@
 # 3Dbub
-3Dbub is a comprehensive repository that provides machine learning-based tools for image segmentation of two-phase flows in corrugated channels. This repository includes trained weights for the segmentation models, annotated images used for training and MATLAB scripts for bubble volume reconstruction and void fraction estimation. 
+3Dbub is a comprehensive repository that provides AI-based methodology and tools for image segmentation of two-phase flows in corrugated channels. This repository includes trained weights for the segmentation models, annotated images used for training and MATLAB scripts for bubble volume reconstruction and void fraction estimation. 
 
 ## Features
 - Pre-trained weights for image segmentation models based on U-Net architecture tailored to two-phase flow in corrugated channels.
